@@ -1,0 +1,22 @@
+[
+{
+  "id": 1281,
+  "name": "ANS-03",
+  "status": "200",
+  "temperature": "205.3",
+  "vibrations": "24.0",
+  "energy_consumption": "20.0",
+  "installed_at": "2017-03-12",
+  "last_maintenance": "2018-01-11"
+  },
+  {
+    "id": 2901,
+    "name": "TPR-420",
+    "status": "201",
+    "temperature": "213.2",
+    "vibrations": "12.0",
+    "energy_consumption": "45.0",
+    "installed_at": "2016-02-02",
+    "last_maintenance": "2018-03-14"
+  }
+  ]

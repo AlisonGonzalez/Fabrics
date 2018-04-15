@@ -1,0 +1,32 @@
+[
+{
+  "id": 2389,
+  "name": "EGS-407",
+  "status": "300",
+  "temperature": "73.9",
+  "vibrations": "88.9",
+  "energy_consumption": "34.4",
+  "installed_at": "2012-09-11",
+  "last_maintenance": "2018-01-31"
+  },
+  {
+    "id": 1002,
+    "name": "RT-031",
+    "status": "300",
+    "temperature": "199.2",
+    "vibrations": "112.0",
+    "energy_consumption": "35.0",
+    "installed_at": "2013-02-27",
+    "last_maintenance": "2018-02-01"
+    },
+    {
+      "id": 4012,
+      "name": "ECR-199",
+      "status": "200",
+      "temperature": "203.7",
+      "vibrations": "11.4",
+      "energy_consumption": "22.2",
+      "installed_at": "2014-03-28",
+      "last_maintenance": "2018-01-01"
+    }
+    ]
